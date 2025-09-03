@@ -68,6 +68,16 @@ to test the recovery logic independently.
 
 ![Alt text](https://github.com/user-attachments/assets/b0a0123e-bec0-46c3-93cd-b8415032275b)
 
+## Frontend
+
+The frontend part of this project is located in the `frontend` folder. It is built using modern web technologies to provide a clean, responsive, and user-friendly interface.
+
+You can check out the live demo of the frontend here:  
+[Live Frontend Demo](https://dad4e88f-a9d1-46b1-a3c0-fc55b477e186-00-19iqw2hidm0pb.janeway.replit.dev/)
+
+This frontend focuses on usability and performance with dynamic rendering and interactive components, making the overall user experience seamless and intuitive.
+
+
 
 
 
