@@ -13,12 +13,7 @@ This tool is used to recover deleted files by scanning disks for hidden data fra
     Entropy scanning to detect possible fragmented or hidden regions
 
     Saves recovered files in a dedicated output directory
-
-
-## Requirements
-
-    Python 3
-
+    
 
 ## How It Works
 
