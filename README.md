@@ -73,7 +73,7 @@ to test the recovery logic independently.
 
 ## Backend Output 
 
-![Alt text](https://github.com/user-attachments/assets/b0a0123e-bec0-46c3-93cd-b8415032275b)
+![Image](https://github.com/user-attachments/assets/c56d2d78-fbb7-4e7a-b8f0-64f95ff74822)
 
 ## Frontend
 
