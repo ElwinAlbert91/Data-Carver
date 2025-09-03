@@ -1,50 +1,34 @@
 # Data-recovery-tool
 This tool is used to recover deleted files by scanning disks for hidden data fragments and reassembling them into usable files before the raw data is overwritten by new information.
 
-Overview
-This tool is used to recover deleted files by scanning a disk image for hidden data fragments and intelligently reassembling them into usable files before the raw data is overwritten. It supports recovery for JPG, PNG, PDF and WAV files from disk images using file signature carving compression and entropy-based analysis.
+## Overview
 
-Features
-Signature-based recovery for popular formats (JPG, PNG, PDF, WAV)
 
-Entropy scanning to detect possible fragmented or hidden regions
+    This tool is used to recover deleted files by scanning a disk image for hidden data fragments and intelligently reassembling them into usable files before the raw data is overwritten. It supports recovery for JPG, PNG, PDF and WAV files from disk images using file signature carving compression and entropy-based analysis.
 
-Saves recovered files in a dedicated output directory
+## Features
 
-Handles truncated, corrupted, and partially overwritten files
+    Signature-based recovery for popular formats (JPG, PNG, PDF, WAV)
 
-Usage
-Place your disk image file (e.g., leo_disk.img) in the working directory.
+    Entropy scanning to detect possible fragmented or hidden regions
 
-Run the script:
+    Saves recovered files in a dedicated output directory
 
-bash
-python your_scriptname.py
-Recovered files will be saved in the recovered folder. The console will show stats for recovered files by type.
 
-Requirements
-Python 3
+## Requirements
 
-No external dependencies (uses only standard Python modules)
+    Python 3
 
-How It Works
-The tool scans the raw disk image for known file signatures.
 
-Uses sliding entropy window to identify regions with high randomness typical of compressed formats.
+## How It Works
 
-Extracts files matching headers and footers, checks for corruption, and avoids duplicates using hashes.
+    The tool scans the raw disk image for known file signatures.
 
-Supports recovery for: JPG, PNG, PDF and WAV.
+    Uses sliding entropy window to identify regions with high randomness typical of compressed formats.
 
-Limitations
-Works on raw disk images—does not modify the source disk.
+    Extracts files matching headers and footers, checks for corruption, and avoids duplicates using hashes.
 
-Cannot recover data that has already been fully overwritten.
-
-Accuracy depends on fragmentation and overall disk state.
-
-License
-Open-source under your chosen license (e.g., MIT, GPL).
+    Supports recovery for: JPG, PNG, PDF and WAV.
 
 
 
