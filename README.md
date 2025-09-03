@@ -36,8 +36,12 @@ Signature-based recovery for popular formats (JPG, PNG, PDF, WAV)
 Entropy scanning to detect possible fragmented or hidden regions
 
 Saves recovered files in a dedicated output directory
-    
 
+## Architecture
+
+  ![System Architecture](https://github.com/user-attachments/assets/07598b9d-127d-4b16-b4b3-26ef647c0369)
+
+    
 ## How It Works
 
     The tool scans the raw disk image for known file signatures.
