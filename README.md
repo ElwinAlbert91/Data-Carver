@@ -64,6 +64,11 @@ Developers can navigate to the backend folder and run:
 
 to test the recovery logic independently.
 
+## Backend Output 
+
+![Alt text](https://github.com/user-attachments/assets/b0a0123e-bec0-46c3-93cd-b8415032275b)
+
+
 
 
 
