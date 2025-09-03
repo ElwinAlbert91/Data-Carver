@@ -3,7 +3,7 @@ This tool is used to recover deleted files by scanning disks for hidden data fra
 
 ## Repository Structure
 
-    ||-- backend/
+    |-- backend/
     |    |-- backend.py
     |    |-- requirements.txt
     |-- frontend/
@@ -12,6 +12,7 @@ This tool is used to recover deleted files by scanning disks for hidden data fra
     |-- recovered/
     |    |-- disk_recovery_image
     |    |-- (recovered files output)
+    |-- architecture.png
     |-- README.md
 
 
