@@ -88,6 +88,11 @@ This frontend focuses on usability and performance with dynamic rendering and in
 
 ![disk recovered](https://github.com/user-attachments/assets/6189d88a-fefc-4a34-b839-7a8aa42a87e4)
 
+## Conclusion
+
+This tool provides a reliable way to recover deleted or lost files from raw disk images using advanced analysis techniques.
+With its powerful backend and user-friendly frontend, it can help retrieve valuable data even under challenging conditions.
+
 
 
 
