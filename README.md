@@ -70,13 +70,21 @@ to test the recovery logic independently.
 
 ## Frontend
 
-The frontend part of this project is located in the `frontend` folder. It is built using modern web technologies to provide a clean, responsive, and user-friendly interface.
+The frontend part of this project is located in the `frontend` folder. 
+It is built using modern web technologies to provide a clean, responsive, and user-friendly interface.
 
 You can check out the live demo of the frontend here:  
 [Live Frontend Demo](https://dad4e88f-a9d1-46b1-a3c0-fc55b477e186-00-19iqw2hidm0pb.janeway.replit.dev/)
 
 This frontend focuses on usability and performance with dynamic rendering and interactive components, making the overall user experience seamless and intuitive.
 
+## Disk Upload Output
+
+![Alt text](https://github.com/user-attachments/assets/3b756146-677c-4ba2-b477-070ceb789f6b)
+
+## Disk Recovered Output
+
+![disk recovered](https://github.com/user-attachments/assets/6189d88a-fefc-4a34-b839-7a8aa42a87e4)
 
 
 
