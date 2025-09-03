@@ -45,5 +45,26 @@ Saves recovered files in a dedicated output directory
 
     Supports recovery for: JPG, PNG, PDF and WAV.
 
+## Backend
+    The backend folder contains the core recovery logic implemented in backend.py. It uses Python standard libraries (listed in requirements.txt) to scan raw disk images and recover files based on signature and entropy analysis.
+
+Requirements
+
+To install backend dependencies, run:
+
+    pip install -r backend/requirements.txt
+
+(This can be minimal or empty if only standard libraries are used but include it to keep structure clean.)
+
+Running Backend (For Developers)
+
+Developers can navigate to the backend folder and run:
+
+    python3 main.py
+
+to test the recovery logic independently.
+
+
+
 
 
