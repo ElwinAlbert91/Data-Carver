@@ -11,7 +11,7 @@ This tool is used to recover deleted files by scanning disks for hidden data fra
     |    |-- disk_upload_image
     |-- recovered/
     |    |-- disk_recovery_image
-    |    |-- (recovered files output)
+    |    |-- Backend_recovered_image
     |-- architecture.png
     |-- README.md
 
